@@ -83,7 +83,7 @@ export function DocNavbar({ onMenuToggle }: DocNavbarProps) {
 
           <div className="hidden md:flex items-center gap-1">
             <a
-              href="/entangle_protocol_v2_whitepaper.pdf"
+              href="/whitepaper.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-1.5 px-3 py-1.5 rounded-md text-sm font-medium transition-colors"
